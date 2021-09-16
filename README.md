@@ -46,7 +46,7 @@ _Tabela 2 - Lista de funcionalidades do módulo de acesso público._
 
 | Funcionalidade | Descrição | Público-alvo   |
 | -------------- | ----------| -------------- |
-| Cadastro de hóspedes | Inclusão e alteração de hóspede | Gerente |
+| Cadastro de hóspedes | Inclusão e alteração de hóspede | Usuário |
 | Consulta de apartamentos | Pesquisa de apartamentos disponíveis para reserva no período e nas configurações desejadas pelo hóspede, em qualquer hotel pertencente a rede. | Usuário |
 | Reserva | Registro de uma reserva de apartamento pelo hóspede. | Usuário |
 | Histório de estadias | Visualização das estadias já registradas pelo hóspede na rede de hotéis. | Usuário |
